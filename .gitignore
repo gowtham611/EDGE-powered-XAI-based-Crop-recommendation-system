@@ -1,0 +1,8 @@
+# Virtual environments
+env/
+venv/
+crop/Lib/
+crop/Lib/site-packages/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
